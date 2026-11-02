@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 600" role="img" aria-labelledby="title desc">
+  <title id="title">校园小提琴社合奏</title>
+  <desc id="desc">温暖的排练室里，几位学生围绕乐谱架演奏小提琴</desc>
+  <rect width="960" height="600" fill="#f4f0e6"/>
+  <rect y="390" width="960" height="210" fill="#c9a878"/>
+  <rect x="52" y="48" width="380" height="290" fill="#d8e5df"/>
+  <path d="M52 193h380M242 48v290" stroke="#fff" stroke-width="16"/>
+  <rect x="470" y="52" width="410" height="26" rx="4" fill="#836d59"/>
+  <rect x="500" y="80" width="16" height="228" fill="#836d59"/><rect x="835" y="80" width="16" height="228" fill="#836d59"/>
+  <path d="M526 112h274M526 148h274M526 184h274M526 220h274" stroke="#b8a28b" stroke-width="5"/>
+  <g fill="#9c3f31"><circle cx="150" cy="368" r="40"/><path d="M110 381q40-54 80 0v105h-80z"/><path d="M125 400h-42v96h60M175 400h44v96h-60" fill="#9c3f31"/></g>
+  <g fill="#315d59"><circle cx="320" cy="354" r="42"/><path d="M274 370q46-56 92 0v126h-92z"/><path d="M292 395h-42v101h62M350 395h44v101h-62" fill="#315d59"/></g>
+  <g fill="#d09b46"><circle cx="518" cy="368" r="40"/><path d="M478 383q40-52 80 0v113h-80z"/><path d="M494 402h-43v94h61M544 402h44v94h-60" fill="#d09b46"/></g>
+  <g fill="#7b5369"><circle cx="700" cy="352" r="42"/><path d="M654 369q46-56 92 0v127h-92z"/><path d="M672 394h-42v102h62M730 394h44v102h-62" fill="#7b5369"/></g>
+  <g fill="#f4dfb4" stroke="#65412c" stroke-width="5">
+    <path d="M197 345c-14-14-27-8-24 6 3 12 14 13 9 25-5 10-1 21 8 24 8 3 13-7 11-16-2-9-1-13 6-19 8-7 1-15-10-20z"/>
+    <path d="M366 331c-14-14-27-8-24 6 3 12 14 13 9 25-5 10-1 21 8 24 8 3 13-7 11-16-2-9-1-13 6-19 8-7 1-15-10-20z"/>
+    <path d="M563 344c-14-14-27-8-24 6 3 12 14 13 9 25-5 10-1 21 8 24 8 3 13-7 11-16-2-9-1-13 6-19 8-7 1-15-10-20z"/>
+    <path d="M745 328c-14-14-27-8-24 6 3 12 14 13 9 25-5 10-1 21 8 24 8 3 13-7 11-16-2-9-1-13 6-19 8-7 1-15-10-20z"/>
+  </g>
+  <g stroke="#f0d8ad" stroke-width="4" opacity=".9"><path d="M198 330L246 277"/><path d="M367 316L417 265"/><path d="M564 329L614 278"/><path d="M746 313L797 262"/></g>
+  <rect x="402" y="276" width="72" height="96" fill="#f7f3e9" stroke="#5b554c" stroke-width="6"/>
+  <path d="M416 299h42M416 312h42M416 325h30M416 338h38" stroke="#827965" stroke-width="4"/>
+  <path d="M0 512q240-33 480 0t480 0v88H0z" fill="#af8d62" opacity=".65"/>
+  <text x="480" y="566" text-anchor="middle" font-family="sans-serif" font-size="22" fill="#443b32">校园小提琴社 · 一起听见彼此</text>
+</svg>
